@@ -6,7 +6,7 @@ Nodejs module for removing document-level indentation for &#x3C;pre&#x3E; blocks
         <div>
             <pre>
                 ....
-            <pre>
+            </pre>
         </div>
     </html>
 
@@ -16,7 +16,7 @@ becomes
         <div>
     <pre>
         ....
-    <pre>
+    </pre>
         </div>
     </html>
 
@@ -33,7 +33,7 @@ becomes
             <div>
                 <pre>
                     ....
-                <pre>
+                </pre>
             </div>
         </html>
     `;
