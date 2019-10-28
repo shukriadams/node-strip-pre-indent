@@ -1,4 +1,4 @@
-const stripIndent = require('strip-pre-indent');
+const stripIndent = require('./index');
     
 let markup = `
     <html>
