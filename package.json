@@ -1,0 +1,13 @@
+{
+    "name": "strip-pre-indent",
+    "description": "Removes document-level indent from <pre> blocks while preserving their internal indenting.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Shukri Adams",
+        "email": "shukri.adams@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shukriadams/node-strip-pre-indent.git"
+    }
+}
