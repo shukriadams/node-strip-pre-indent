@@ -1,6 +1,6 @@
 # Node-strip-pre-indent
 
-Nodejs module for removing document-level indentation for <pre> blocks.
+Nodejs module for removing document-level indentation for &#x3C;pre&#x3E; blocks.
 
     <html>
         <div>
