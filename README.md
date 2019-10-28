@@ -42,7 +42,7 @@ becomes
 
 ## Why?
 
-The official HTML5 spec for <pre> has a critical design failure which treats all whitespace in the &#x3C;pre&#x3E; block as formating and will show this in the browser. UYnfortunately, your HTML document's own indentation counts as formating too.
+The official HTML5 spec for &#x3C;pre&#x3E; has a critical design failure which treats all whitespace in the &#x3C;pre&#x3E; block as formating and will show this in the browser. UYnfortunately, your HTML document's own indentation counts as formating too.
 
 ## License
 
