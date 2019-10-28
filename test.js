@@ -5,7 +5,7 @@ let markup = `
         <div>
             <pre>
                 ....
-            <pre>
+            </pre>
         </div>
     </html>
 `;
